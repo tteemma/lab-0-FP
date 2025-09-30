@@ -50,10 +50,3 @@
 3. Yaron Minsky, Anil Madhavapeddy, Jason Hickey — *Real World OCaml*  
 4. Michael R. Clarkson — *OCaml Programming: Correct + Efficient + Beautiful*  
 
----
-
-## Книга для подготовки
-
-📖 *Michael R. Clarkson — OCaml Programming: Correct + Efficient + Beautiful*  
-
-Книга системно объясняет язык и его экосистему, а также подробно рассматривает написание корректных и производительных программ.  
